@@ -1,8 +1,5 @@
 Cold and dry, but everything is my favourite color
 The two moons may be a problem for Wolfman
-<<<<<<< HEAD
 exercise
 This is an example of creating branches
 this is on hello branch
-=======
->>>>>>> 97d6b62f990b778b078a4e8e08d481a69df95baf
